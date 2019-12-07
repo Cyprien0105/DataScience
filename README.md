@@ -1,7 +1,7 @@
 # DataScience
 
 The purpose of this little project is to provide simple tools to use transfer learning models in a very simple way.
-The first model available is the efficientNetB3 trained on the imagenet dataset. The goal is to classsify imgaes by using a powerfull neuralnetwork.
+The first model available is the efficientNetB3 trained on the imagenet dataset. The goal is to classsify images by using a powerfull neuralnetwork.
 
 
 imagenet dataset : http://www.image-net.org/
